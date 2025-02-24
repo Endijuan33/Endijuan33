@@ -1,6 +1,6 @@
 <h2 align="center">Aloha Endcore</h2>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif" />
+<img align="right" height="150" src="https://i.gifer.com/1UhP.gif" />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" />
