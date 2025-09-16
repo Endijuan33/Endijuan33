@@ -3,12 +3,12 @@
 </h1>
 
 <div align="center">
-  <img height="280" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="Main Animation" />
+  <img height="265" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Main Animation" />
 </div>
 
 ---
 
-### 🌈 About Me
+### 🙋🏻‍♂️ About Me
 - 🚀 Exploring **Web Development, Blockchain, and Automation**
 - 🐍 Writing code with **Python, JavaScript, TypeScript**
 - 🎨 Love mixing **tech + creativity** for fun projects
@@ -31,6 +31,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EndijuaN33&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</div>
+
+---
+
 ### 🎶 Fun Zone
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" />
@@ -41,9 +48,22 @@
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://t.me/e0303"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/endcore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:endcore.eth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/e0303">
+    <img src="https://img.shields.io/badge/Telegram-00C6FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0072FF" />
+  </a>
+  <a href="https://linkedin.com/in/endcore">
+    <img src="https://img.shields.io/badge/LinkedIn-FF512F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=DD2476" />
+  </a>
+  <a href="mailto:endcore.eth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF416C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF4B2B" />
+  </a>
+</div>
+
+---
+
+### 👀 Visitor Counter
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EndijuaN33&style=for-the-badge&color=brightgreen" />
 </div>
 
 ---
