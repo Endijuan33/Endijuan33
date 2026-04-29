@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img height="265" src="https://opengameart.org/sites/default/files/Preview_Attack-1.gif" alt="Main Animation" />
+  <img height="265" src="https://camo.githubusercontent.com/d9ca86a0a06f44cce9b714b730f6de76c921823b0517e39a258a80779491e933/68747470733a2f2f6f70656e67616d656172742e6f72672f73697465732f64656661756c742f66696c65732f507265766965775f41747461636b2d312e676966" alt="Main Animation" />
 </div>
 
 ---
