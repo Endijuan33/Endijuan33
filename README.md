@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Endijuan33&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endijuan33&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Endijuan33&theme=radical&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Endijuan33&layout=compact&theme=radical&hide_border=true" height="170" />
 </div>
 
 ---
